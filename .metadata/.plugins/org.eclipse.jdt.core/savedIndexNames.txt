@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Kelas Online\Kelas Terbuka\Java\.metadata\.plugins\org.eclipse.jdt.core
+571319899.index
+269096620.index
+3422799735.index
+1426757325.index
